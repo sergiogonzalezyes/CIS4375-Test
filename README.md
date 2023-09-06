@@ -8,6 +8,10 @@ This project consists of two main components: the frontend and the backend. Belo
 
 The frontend is developed using [Vue.js](https://vuejs.org/) and requires Node.js and npm to be installed.
 
+## Backend
+
+The backend is developed using Python and utilizes the Flask Framework.
+
 ### Frontend Server (Vuejs)
 
 1. Navigate to the frontend directory:
@@ -24,14 +28,14 @@ The frontend is developed using [Vue.js](https://vuejs.org/) and requires Node.j
 
 ### Backend Server (Flask)
 
-1. Navigate to the frontend directory:
+1. Navigate to the backend directory:
    ```bash
-   pip install
+   cd Backend
    
 2. Run dependency install
     ```bash
     pip install -r requirements.txt
-    
+
 3. Run Server after dependency install
-    ```bash
-    flask run
+   ```bash
+   flask run
