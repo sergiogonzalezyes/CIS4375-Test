@@ -10,7 +10,7 @@ The frontend is developed using [Vue.js](https://vuejs.org/) and requires [Node.
 
 ## Backend
 
-The backend is developed using [Python](https://www.python.org/) and utilizes the [Flask](https://flask.palletsprojects.com/en/2.3.x/) Framework.
+The backend is developed using [Python](https://www.python.org/) and utilizes the [Flask](https://flask.palletsprojects.com/en/2.3.x/) Framework by pip install.
 
 ### Frontend Server (Vuejs)
 
