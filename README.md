@@ -6,11 +6,11 @@ This project consists of two main components: the frontend and the backend. Belo
 
 ## Frontend
 
-The frontend is developed using [Vue.js](https://vuejs.org/) and requires Node.js and npm to be installed.
+The frontend is developed using [Vue.js](https://vuejs.org/) and requires [Node.js](https://nodejs.org/en) and npm to be installed.
 
 ## Backend
 
-The backend is developed using Python and utilizes the Flask Framework.
+The backend is developed using [Python](https://www.python.org/) and utilizes the [Flask](https://flask.palletsprojects.com/en/2.3.x/) Framework.
 
 ### Frontend Server (Vuejs)
 
